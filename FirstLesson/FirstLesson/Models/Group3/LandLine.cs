@@ -11,6 +11,8 @@ namespace FirstLesson.Models.Group3
             throw new NotImplementedException();
         }
 
+        //ukoliko zelimo da obicna metoda ima mogucnost override-a oznaciti je sa virtual
+
         public virtual void Print() {
             Console.WriteLine("Print from Landline");
         }

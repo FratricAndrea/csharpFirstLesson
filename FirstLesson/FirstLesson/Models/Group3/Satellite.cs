@@ -8,6 +8,7 @@ namespace FirstLesson.Models.Group3
     {
         public override void Ring()
         {
+            //primer koricenja mmetode iz bazne klase sa base
             base.RingVirtual();
             throw new NotImplementedException();
         }

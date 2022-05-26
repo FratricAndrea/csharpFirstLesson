@@ -9,6 +9,7 @@ namespace FirstLesson.Models
         public string Name { get; set; }
         public Fuel Gorivo { get; set; }
 
+        //dva nepodrazumevana konstruktora ---> constructor overloading
         public Vehicle(string name) {
             this.Name = name;
         }

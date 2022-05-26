@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andreaf\\source\\repos\\JOVAN\\FirstLesson\\FirstLesson\\FirstLesson.csproj": {}
+    "C:\\github\\csharpFirstLesson\\FirstLesson\\FirstLesson\\FirstLesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andreaf\\source\\repos\\JOVAN\\FirstLesson\\FirstLesson\\FirstLesson.csproj": {
+    "C:\\github\\csharpFirstLesson\\FirstLesson\\FirstLesson\\FirstLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andreaf\\source\\repos\\JOVAN\\FirstLesson\\FirstLesson\\FirstLesson.csproj",
+        "projectUniqueName": "C:\\github\\csharpFirstLesson\\FirstLesson\\FirstLesson\\FirstLesson.csproj",
         "projectName": "FirstLesson",
-        "projectPath": "C:\\Users\\andreaf\\source\\repos\\JOVAN\\FirstLesson\\FirstLesson\\FirstLesson.csproj",
+        "projectPath": "C:\\github\\csharpFirstLesson\\FirstLesson\\FirstLesson\\FirstLesson.csproj",
         "packagesPath": "C:\\Users\\andreaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andreaf\\source\\repos\\JOVAN\\FirstLesson\\FirstLesson\\obj\\",
+        "outputPath": "C:\\github\\csharpFirstLesson\\FirstLesson\\FirstLesson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

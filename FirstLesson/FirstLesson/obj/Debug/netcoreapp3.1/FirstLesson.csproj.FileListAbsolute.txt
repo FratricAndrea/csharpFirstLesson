@@ -12,3 +12,17 @@ C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp
 C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.dll
 C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.pdb
 C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.genruntimeconfig.cache
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.exe
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.deps.json
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.runtimeconfig.json
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.runtimeconfig.dev.json
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.dll
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.pdb
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.csproj.AssemblyReference.cache
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.AssemblyInfoInputs.cache
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.AssemblyInfo.cs
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.csproj.CoreCompileInputs.cache
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.dll
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.pdb
+C:\github\csharpFirstLesson\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.genruntimeconfig.cache
