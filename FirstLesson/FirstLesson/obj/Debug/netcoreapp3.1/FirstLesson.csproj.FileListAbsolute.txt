@@ -1,0 +1,14 @@
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.exe
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.deps.json
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.runtimeconfig.json
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.runtimeconfig.dev.json
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.dll
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\bin\Debug\netcoreapp3.1\FirstLesson.pdb
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.csproj.AssemblyReference.cache
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.AssemblyInfoInputs.cache
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.AssemblyInfo.cs
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.dll
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.pdb
+C:\Users\andreaf\source\repos\JOVAN\FirstLesson\FirstLesson\obj\Debug\netcoreapp3.1\FirstLesson.genruntimeconfig.cache
